@@ -33,6 +33,20 @@
             padding: 10px;
             border-radius: 5px;
         }
+        .button {
+            background-color: blue; /* Button background color */
+            color: white; /* Button text color */
+            padding: 10px 20px; /* Button padding */
+            border: none; /* No border */
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer; /* Pointer cursor on hover */
+            text-decoration: none; /* No underline */
+            display: inline-block; /* Align buttons inline */
+            margin-top: 10px; /* Space above buttons */
+        }
+        .button:hover {
+            background-color: darkblue; /* Darker blue on hover */
+        }
     </style>
 </head>
 <body>
@@ -40,6 +54,7 @@
     <div class="section">
         <h1>💫 About Me:</h1>
         <p>💙PORTFOLIO💙<br><br>Name: Isiah Gabrielle Batul<br>Age: 21<br>Birthday: December 11, 2003<br>Contact Number: 09703023937<br><br>Educational Background:<br><br>Graduated at Santol Elementary School (2008 - 2015)<br>Member of Power It Up Glee Club since Grade 8 (2017 - 2018)<br>Member of Power It Up Glee Club since Grade 9 (2018 - 2019)<br>Graduated at Tanza National Comprehensive High School (2021 - 2022)<br>Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>Tenor 1 Member at CVSU CCAT Chorale (2023 -2025)<br><br>5 Skills:<br><br>1. I do video editing using Capcut.<br>2. I do making posters or banners using Canva and Picsart.<br>3. Coding in My SQL Database is my skill and I'm trying my best to improve in this language.<br>4. Coding in XML is also my skill and I really enjoyed putting some attributes on it.<br>5. Last, one of my favorite is singing and that is one of my skills and passion since I was a kid.<br><br></p>
+        <a href="https://github.com/gab1211" class="button">View My GitHub</a>
     </div>
 
     <div class="section socials">
@@ -50,11 +65,13 @@
         <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
         <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
         <a href="mailto:isiah.gabrielle1211@gmail.com">Email</a>
+        <a href="https://www.linkedin.com/in/isiah-gabrielle-batul" class="button">Connect on LinkedIn</a>
     </div>
 
     <div class="section tech-stack">
         <h2>💻 Tech Stack:</h2>
         <p>HTML5, Adobe Lightroom, Adobe Lightroom Classic</p>
+        <a href="https://www.codecademy.com/learn/learn-html" class="button">Learn HTML</a>
     </div>
 
     <div class="section">
@@ -76,4 +93,3 @@
 </body>
 </html>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
