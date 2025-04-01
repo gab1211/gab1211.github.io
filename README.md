@@ -1,8 +1,6 @@
 # gab1211.github.io
 # My Portfolio
-This is my personal portfolio.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,17 +11,17 @@ This is my personal portfolio.
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: blue; /* Light background for the entire page */
+            background-color: light blue; /* Light background for the entire page */
         }
         .section {
-            background-color: #ffffff; /* White background for sections */
+            background-color: light green; /* White background for sections */
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: #333; /* Darker text for headers */
+            color: black; /* Darker text for headers */
         }
         .socials {
             background-color: yellow; /* Light blue background for socials */
