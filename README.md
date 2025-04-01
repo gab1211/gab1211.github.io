@@ -11,10 +11,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: light blue; /* Light background for the entire page */
+            background-color: yellow; /* Light background for the entire page */
         }
         .section {
-            background-color: light green; /* White background for sections */
+            background-color: green; /* White background for sections */
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
