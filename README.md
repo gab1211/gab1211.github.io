@@ -14,7 +14,7 @@
             background-color: yellow; /* Light background for the entire page */
         }
         .section {
-            background-color: green; /* White background for sections */
+            background-color: white; /* White background for sections */
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
@@ -24,28 +24,28 @@
             color: black; /* Darker text for headers */
         }
         .socials {
-            background-color: yellow; /* Light blue background for socials */
+            background-color: light blue; /* Light blue background for socials */
             padding: 10px;
             border-radius: 5px;
         }
         .tech-stack {
-            background-color: purple; /* Alice blue background for tech stack */
+            background-color: purple; 
             padding: 10px;
             border-radius: 5px;
         }
         .button {
-            background-color: blue; /* Button background color */
-            color: white; /* Button text color */
-            padding: 10px 20px; /* Button padding */
-            border: none; /* No border */
-            border-radius: 5px; /* Rounded corners */
-            cursor: pointer; /* Pointer cursor on hover */
-            text-decoration: none; /* No underline */
-            display: inline-block; /* Align buttons inline */
-            margin-top: 10px; /* Space above buttons */
+            background-color: green; 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            text-decoration: none; 
+            display: inline-block; 
+            margin-top: 10px; 
         }
         .button:hover {
-            background-color: darkblue; /* Darker blue on hover */
+            background-color: darkblue; 
         }
     </style>
 </head>
