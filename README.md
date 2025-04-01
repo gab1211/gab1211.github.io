@@ -13,7 +13,7 @@ This is my personal portfolio.
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4; /* Light background for the entire page */
+            background-color: blue; /* Light background for the entire page */
         }
         .section {
             background-color: #ffffff; /* White background for sections */
@@ -26,12 +26,12 @@ This is my personal portfolio.
             color: #333; /* Darker text for headers */
         }
         .socials {
-            background-color: #e7f3fe; /* Light blue background for socials */
+            background-color: yellow; /* Light blue background for socials */
             padding: 10px;
             border-radius: 5px;
         }
         .tech-stack {
-            background-color: #f0f8ff; /* Alice blue background for tech stack */
+            background-color: purple; /* Alice blue background for tech stack */
             padding: 10px;
             border-radius: 5px;
         }
