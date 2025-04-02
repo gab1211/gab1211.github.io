@@ -17,7 +17,7 @@
     
 <body>
     <h1>My Profile</h1>
-    <img src="![437089527_7646435778749399_1421991094709206488_n.jpg](https://github.com/user-attachments/assets/eb2df118-ef03-4624-b4ac-505f0fcd6b67)" alt="My Profile" class="profile picture">
+    <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Batul.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
 </head>
 </body>
     
@@ -74,7 +74,23 @@
 
     <div class="section">
         <h1>💫 About Me:</h1>
-        <p>💙PORTFOLIO💙<br><br>Name: Isiah Gabrielle Batul<br>Age: 21<br>Birthday: December 11, 2003<br>Contact Number: 09703023937<br><br>Educational Background:<br><br>Graduated at Santol Elementary School (2008 - 2015)<br>Member of Power It Up Glee Club since Grade 8 (2017 - 2018)<br>Member of Power It Up Glee Club since Grade 9 (2018 - 2019)<br>Graduated at Tanza National Comprehensive High School (2021 - 2022)<br>Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>Tenor 1 Member at CVSU CCAT Chorale (2023 -2025)<br><br>5 Skills:<br><br>1. I do video editing using Capcut.<br>2. I do making posters or banners using Canva and Picsart.<br>3. Coding in My SQL Database is my skill and I'm trying my best to improve in this language.<br>4. Coding in XML is also my skill and I really enjoyed putting some attributes on it.<br>5. Last, one of my favorite is singing and that is one of my skills and passion since I was a kid.<br><br></p>
+        <p>💙PORTFOLIO💙<br><br>Name: Isiah Gabrielle Batul<br>Age: 21
+            <br>Birthday: December 11, 2003<br>
+            Contact Number: 09703023937<br>
+            <br>Educational Background:<br>
+            <br>Graduated at Santol Elementary School (2008 - 2015)<br>
+            Member of Power It Up Glee Club since Grade 8 (2017 - 2018)<br>
+            Member of Power It Up Glee Club since Grade 9 (2018 - 2019)<br>
+            Graduated at Tanza National Comprehensive High School (2021 - 2022)<br>
+            Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
+            Tenor 1 Member at CVSU CCAT Chorale (2023 -2025)<br>
+            <br>5 Skills:<br>
+            <br>1. I do video editing using Capcut.<br>
+            2. I do making posters or banners using Canva and Picsart.<br>
+            3. Coding in My SQL Database is my skill and I'm trying my best to improve in this language.<br>
+            4. Coding in XML is also my skill and I really enjoyed putting some attributes on it.<br>
+            5. Last, one of my favorite is singing and that is one of my skills and passion since I was a kid.<br>
+            <br></p>
         <a href="https://github.com/gab1211" class="button">View My GitHub</a>
     </div>
 
@@ -86,13 +102,23 @@
         <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
         <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
         <a href="mailto:isiah.gabrielle1211@gmail.com">Email</a>
-        <a href="https://www.linkedin.com/in/isiah-gabrielle-batul" class="button">Connect on LinkedIn</a>
+        <a href="https://facebook.com/IsiahGabrielleBatul" class="button">Connect on Facebook</a>
+        <a href="https://instagram.com/igbb_1211" class="button">Connect on Instagram</a>
+        <a href="https://youtube.com/@IsiahGabrielleBatul" class="button">Connect on YouTube</a>
     </div>
 
     <div class="section tech-stack">
         <h2>💻 Tech Stack:</h2>
-        <p>HTML5, Adobe Lightroom, Adobe Lightroom Classic</p>
+        <p>HTML5, Adobe Photoshop, Turbo C++, Python, Java, MySQL Database, XML, CMD, Linux</p>
         <a href="https://www.codecademy.com/learn/learn-html" class="button">Learn HTML</a>
+        <a href="https://www.adobe.com/africa/learn/photoshop" class="button">Learn Adobe Photoshop</a>
+        <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/turbo-c" class="button">Learn Turbo C++</a>
+        <a href="https://www.learnpython.org/" class="button">Learn Python</a>
+        <a href="https://www.codecademy.com/learn/learn-java" class="button">Learn Java</a>
+        <a href="https://www.w3schools.com/MySQL/default.asp" class="button">Learn MySQL Database</a>
+        <a href="https://www.w3schools.com/xml/" class="button">Learn XML</a>
+        <a href="https://www.codecademy.com/learn/learn-the-command-line" class="button">Learn CMD</a>
+        <A href="https://linuxjourney.com/" class="button">Learn Linux</A>
     </div>
 
     <div class="section">
@@ -110,6 +136,19 @@
     <div class="section">
         <a href="https://visitcount.itsvg.in/api?id=gab1211&icon=7&color=3">Visit Count</a>
     </div>
+
+    <div class="dummy projects">
+        <h2>Dummy Projects</h2>
+        <ul>Turbo C++</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
+        <ul>Python</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Python.png" alt="Python" class="python" width="1000px" height="500px">
+        <ul>Java</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Java.png" alt="Java" class="java" width="1000px" height="500px">
+        <ul>XML</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\XML.png" alt="XML" class="xml" width="1000px" height="500px">
+    </div>
+
 
 </body>
 </html>
