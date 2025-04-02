@@ -5,6 +5,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Picture Example</title>
+    <style>
+        .profile-picture {
+            width: 150px; /* Set the width of the image */
+            height: 150px; /* Set the height of the image */
+            border-radius: 50%; /* Make the image circular */
+            border: 2px solid #ccc; /* Add a border around the image */
+        }
+    </style>
+    </head>
+<body>
+    <h1>My Profile</h1>
+    <img src="![437089527_7646435778749399_1421991094709206488_n](https://github.com/user-attachments/assets/eb2df118-ef03-4624-b4ac-505f0fcd6b67)" alt="My Profile" class="profile picture">
+</head>
+</body>
+    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
     <style>
         body {
@@ -48,13 +68,7 @@
             background-color: darkblue; 
         }
     </style>
-
-<body>
-    <div class="profile-container">
-        <img src="" alt="My Profile Picture" class="profile-picture">
-        <div class="profile-name">Isiah Gabrielle Batul</div>
-    </div>
-
+    
 </head>
 <body>
 
