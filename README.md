@@ -49,40 +49,9 @@
         }
     </style>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Profile Picture</title>
-    <style>
-        body {
-            background: linear-gradient(to right, #ff7e5f, #feb47b); 
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-        }
-        .profile-container {
-            text-align: center;
-        }
-        .profile-picture {
-            width: 150px; 
-            height: 150px; 
-            border-radius: 50%; 
-            border: 5px solid white; 
-        }
-        .profile-name {
-            margin-top: 10px;
-            font-size: 24px;
-            color: black;
-        }
-    </style>
-</head>
 <body>
     <div class="profile-container">
-        <img src="437089527_7646435778749399_1421991094709206488_n.jpg" alt="Profile Picture" class="profile-picture">
+        <img src="" alt="My Profile Picture" class="profile-picture">
         <div class="profile-name">Isiah Gabrielle Batul</div>
     </div>
 
