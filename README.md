@@ -31,7 +31,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: yellow green; 
+            background-color: gray; 
         }
         .section {
             background-color: white; 
