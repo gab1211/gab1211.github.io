@@ -17,7 +17,7 @@
     
 <body>
     <h1>My Profile</h1>
-    <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Batul.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
+    <img src="![Batul](https://github.com/user-attachments/assets/65d54281-7bf4-4fa4-b445-beacf5b48a02)" alt="My Profile" class="profile picture" width="150px" height="150px">
 </head>
 </body>
     
@@ -140,13 +140,13 @@
     <div class="dummy projects">
         <h2>Dummy Projects</h2>
         <ul>Turbo C++</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
+        <img src="![Java](https://github.com/user-attachments/assets/61e7ff6c-d404-423e-9eac-f3fadcf843e5)" class="turbo c++" width="1000px" height="500px">
         <ul>Python</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Python.png" alt="Python" class="python" width="1000px" height="500px">
+        <img src="![Python](https://github.com/user-attachments/assets/0db0a3c4-12aa-48f5-b377-556e389f988d)" alt="Python" class="python" width="1000px" height="500px">
         <ul>Java</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Java.png" alt="Java" class="java" width="1000px" height="500px">
+        <img src="![Turbo C++](https://github.com/user-attachments/assets/30023fec-b903-4cda-b155-42b26a7f61ee)" alt="Java" class="java" width="1000px" height="500px">
         <ul>XML</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\XML.png" alt="XML" class="xml" width="1000px" height="500px">
+        <img src="![XML](https://github.com/user-attachments/assets/d3212dca-3687-4ff4-a3dd-83d36a7d8c15)" alt="XML" class="xml" width="1000px" height="500px">
     </div>
 
 
