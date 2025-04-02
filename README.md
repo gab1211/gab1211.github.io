@@ -11,17 +11,17 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: yellow; /* Light background for the entire page */
+            background-color: yellow; 
         }
         .section {
-            background-color: white; /* White background for sections */
+            background-color: white; 
             border-radius: 8px;
             padding: 20px;
             margin-bottom: 20px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: black; /* Darker text for headers */
+            color: black; 
         }
         .socials {
             background-color: light blue; /* Light blue background for socials */
@@ -48,6 +48,44 @@
             background-color: darkblue; 
         }
     </style>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile Picture</title>
+    <style>
+        body {
+            background: linear-gradient(to right, #ff7e5f, #feb47b); 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .profile-container {
+            text-align: center;
+        }
+        .profile-picture {
+            width: 150px; 
+            height: 150px; 
+            border-radius: 50%; 
+            border: 5px solid white; 
+        }
+        .profile-name {
+            margin-top: 10px;
+            font-size: 24px;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <img src="437089527_7646435778749399_1421991094709206488_n.jpg" alt="Profile Picture" class="profile-picture">
+        <div class="profile-name">Isiah Gabrielle Batul</div>
+    </div>
+
 </head>
 <body>
 
