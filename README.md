@@ -1,23 +1,23 @@
 # gab1211.github.io
-# My Portfolio
 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Picture Example</title>
+    <title>My Profile</title>
     <style>
         .profile-picture {
-            width: 150px; /* Set the width of the image */
-            height: 150px; /* Set the height of the image */
-            border-radius: 50%; /* Make the image circular */
-            border: 2px solid #ccc; /* Add a border around the image */
+            width: 150px; 
+            height: 150px; 
+            border-radius: 50%; 
+            border: 2px solid black #ccc; 
         }
     </style>
     </head>
+    
 <body>
     <h1>My Profile</h1>
-    <img src="![437089527_7646435778749399_1421991094709206488_n](https://github.com/user-attachments/assets/eb2df118-ef03-4624-b4ac-505f0fcd6b67)" alt="My Profile" class="profile picture">
+    <img src="![437089527_7646435778749399_1421991094709206488_n.jpg](https://github.com/user-attachments/assets/eb2df118-ef03-4624-b4ac-505f0fcd6b67)" alt="My Profile" class="profile picture">
 </head>
 </body>
     
@@ -31,7 +31,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: yellow; 
+            background-color: yellow green; 
         }
         .section {
             background-color: white; 
@@ -44,7 +44,7 @@
             color: black; 
         }
         .socials {
-            background-color: light blue; /* Light blue background for socials */
+            background-color: light blue;
             padding: 10px;
             border-radius: 5px;
         }
