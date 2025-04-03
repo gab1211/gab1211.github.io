@@ -1,0 +1,58 @@
+<div class="section socials">
+        <h2>🌐 Socials:</h2>
+        <a href="https://facebook.com/IsiahGabrielleBatul">Facebook</a> |
+        <a href="https://instagram.com/igbb_1211">Instagram</a> |
+        <a href="https://tiktok.com/@IsiahGabrielleBatul">TikTok</a> |
+        <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
+        <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
+        <a href="mailto:isiah.gabrielle1211@gmail.com">Email</a>
+        <a href="https://facebook.com/IsiahGabrielleBatul" class="button">Connect on Facebook</a>
+        <a href="https://instagram.com/igbb_1211" class="button">Connect on Instagram</a>
+        <a href="https://youtube.com/@IsiahGabrielleBatul" class="button">Connect on YouTube</a>
+    </div>
+
+    <div class="section tech-stack">
+        <h2>💻 Tech Stack:</h2>
+        <p>HTML5, Adobe Photoshop, Turbo C++, Python, Java, MySQL Database, XML, CMD, Linux</p>
+        <a href="https://www.codecademy.com/learn/learn-html" class="button">Learn HTML</a>
+        <a href="https://www.adobe.com/africa/learn/photoshop" class="button">Learn Adobe Photoshop</a>
+        <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/turbo-c" class="button">Learn Turbo C++</a>
+        <a href="https://www.learnpython.org/" class="button">Learn Python</a>
+        <a href="https://www.codecademy.com/learn/learn-java" class="button">Learn Java</a>
+        <a href="https://www.w3schools.com/MySQL/default.asp" class="button">Learn MySQL Database</a>
+        <a href="https://www.w3schools.com/xml/" class="button">Learn XML</a>
+        <a href="https://www.codecademy.com/learn/learn-the-command-line" class="button">Learn CMD</a>
+        <A href="https://linuxjourney.com/" class="button">Learn Linux</A>
+    </div>
+
+    <div class="section">
+        <h2>📊 GitHub Stats:</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=gab1211&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=gab1211&theme=shadow_blue&hide_border=false" alt="GitHub Streak Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab1211&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </div>
+
+    <div class="section">
+        <h2>🏆 GitHub Trophies</h2>
+        <img src="https://github-profile-trophy.vercel.app/?username=gab1211&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+    </div>
+
+    <div class="section">
+        <a href="https://visitcount.itsvg.in/api?id=gab1211&icon=7&color=3">Visit Count</a>
+    </div>
+
+    <div class="dummy projects">
+        <h2>Dummy Projects</h2>
+        <ul>Turbo C++</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
+        <ul>Python</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Python.png" alt="Python" class="python" width="1000px" height="500px">
+        <ul>Java</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Java.png" alt="Java" class="java" width="1000px" height="500px">
+        <ul>XML</ul>
+        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\XML.png" alt="XML" class="xml" width="1000px" height="500px">
+    </div>
+
+
+</body>
+</html>
