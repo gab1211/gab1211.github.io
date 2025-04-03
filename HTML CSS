@@ -1,0 +1,72 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+    <style>
+        .profile-picture {
+            width: 150px; 
+            height: 150px; 
+            border-radius: 50%; 
+            border: 2px solid black #ccc; 
+        }
+    </style>
+    </head>
+    
+<body>
+    <h1>My Profile</h1>
+    <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Batul.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
+</head>
+</body>
+    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: gray; 
+        }
+        .section {
+            background-color: white; 
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: black; 
+        }
+        .socials {
+            background-color: light blue;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .tech-stack {
+            background-color: purple; 
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .button {
+            background-color: green; 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            text-decoration: none; 
+            display: inline-block; 
+            margin-top: 10px; 
+        }
+        .button:hover {
+            background-color: darkblue; 
+        }
+    </style>
+    
+</head>
+<body>
