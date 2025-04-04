@@ -16,9 +16,8 @@
     </head>
     
 <body>
-    ![Image](https://github.com/user-attachments/assets/63246be4-e7dc-4667-a9b0-3ca2fdb99d63)
     <h1>My Profile</h1>
-    <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Batul.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
+    <img src="C:\Users\asus\Downloads\Photo Dump\Profile Picture.png" alt="My Profile" class="profile picture" width="150px" height="150px">
 </head>
 </body>
     
@@ -141,15 +140,14 @@
     <div class="dummy projects">
         <h2>Dummy Projects</h2>
         <ul>Turbo C++</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
+        <img src="C:\Users\asus\Downloads\Photo Dump\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
         <ul>Python</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Python.png" alt="Python" class="python" width="1000px" height="500px">
+        <img src="C:\Users\asus\Downloads\Photo Dump\Python.png" alt="Python" class="python" width="1000px" height="500px">
         <ul>Java</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Java.png" alt="Java" class="java" width="1000px" height="500px">
+        <img src="C:\Users\asus\Downloads\Photo Dump\Java.png" alt="Java" class="java" width="1000px" height="500px">
         <ul>XML</ul>
-        <img src="C:\Users\asus\Downloads\Profile Picture.jpg\XML.png" alt="XML" class="xml" width="1000px" height="500px">
+        <img src="C:\Users\asus\Downloads\Photo Dump\HTML.png" alt="HTML" class="html" width="1000px" height="500px">
     </div>
-
 
 </body>
 </html>
