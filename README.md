@@ -16,6 +16,7 @@
     </head>
     
 <body>
+    ![Image](https://github.com/user-attachments/assets/63246be4-e7dc-4667-a9b0-3ca2fdb99d63)
     <h1>My Profile</h1>
     <img src="C:\Users\asus\Downloads\Profile Picture.jpg\Batul.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
 </head>
