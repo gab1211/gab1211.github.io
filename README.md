@@ -17,7 +17,7 @@
     
 <body>
     <h1>My Profile</h1>
-    <img src="Portfolio 1/mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
+    <img src="Portfolio1/mypic.jpg" alt="mypic.jpg" class="profile-picture" width="150px" height="150px">
 </head>
 </body>
     
