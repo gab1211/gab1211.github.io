@@ -117,8 +117,8 @@
         <h1>💫 About Me:</h1>
         <p>💙PORTFOLIO💙</p><br>Name: Isiah Gabrielle Batul</br>Age: 21
         <br>Birthday: December 11, 2003</br>
-        <br>Contact Number: 09703023937
-        <br>Educational Background</br>
+        <br>Contact Number: 09703023937</br>
+        <br>💙Educational Background💙</br>
             <p>Graduated at Santol Elementary School (2008-2025)<br>
                 Member of Power It Up Glee Club (2017-2018)<br>
                 Member of Power It Up Glee Club (2018-2019)<br>
