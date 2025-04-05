@@ -118,14 +118,14 @@
         <p>💙PORTFOLIO💙</p><br>Name: Isiah Gabrielle Batul</br>Age: 21
         <br>Birthday: December 11, 2003</br>
         <br>Contact Number: 09703023937</br>
-        <br>💙Educational Background💙</br>
+        <br>💙EDUCATIONAL BACKGROUND💙</br>
             <p>Graduated at Santol Elementary School (2008-2025)<br>
                 Member of Power It Up Glee Club (2017-2018)<br>
                 Member of Power It Up Glee Club (2018-2019)<br>
                 Graduated at Tanza National Comprehensive High School (2021-2022)<br>
                 Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
                 Tenor 1 Member at CVSU CCAT Chorale (2023-2025)</br></p>
-        <br>Skills</br>
+        <br>💙SKILLS💙</br>
             <p>1. Being generous can strengthen relationships to others.<br>
                2. Visionary that can be good to develop another things.<br>
                3. Being creative in any work that helps to explore more ideas.<br>
