@@ -1,5 +1,3 @@
-# gab1211.github.io
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,7 +114,6 @@
 </head>
 <body>
 
-    <div class="section">
         <h1>💫 About Me:</h1>
         <p>💙PORTFOLIO</p><br><br>Isiah Gabrielle Batul</br>Age: 21
         <br>Birthday:December 11, 2003</br>
@@ -135,7 +132,6 @@
                   and make their work more better.<br>
                
                5. Planning is also my skills to gain an efficiency and decision making.</p></br>
-    </div>
 
         <a href="https://github.com/gab1211" class="button">View My GitHub</a>
     </div>
