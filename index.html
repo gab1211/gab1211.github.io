@@ -115,7 +115,7 @@
 <body>
 
         <h1>💫 About Me:</h1>
-        <p>💙PORTFOLIO</p><br><br>Isiah Gabrielle Batul</br>Age: 21
+        <p>💙PORTFOLIO</p><br>Name: Isiah Gabrielle Batul</br>Age: 21
         <br>Birthday:December 11, 2003</br>
         <br>Educational Background</br>
             <p>Graduated at Santol Elementary School (2008-2025)<br>
