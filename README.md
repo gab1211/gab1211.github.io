@@ -1,25 +1,51 @@
 # gab1211.github.io
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Profile</title>
     <style>
-        .profile-picture {
-            width: 150px; 
-            height: 150px; 
-            border-radius: 50%; 
-            border: 2px solid black #ccc; 
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-image: url('beautiful-nature.jpg'); 
+            background-size: cover; 
+            background-position: center; 
+            color: white; 
+        }
+        .section {
+            background-color: rgba(255, 255, 255, 0.8); 
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            background-color: green; 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            text-decoration: none; 
+            display: inline-block; 
+            margin-top: 10px; 
+        }
+        .button:hover {
+            background-color: darkblue; 
+        }
+        .hidden {
+            display: none; 
         }
     </style>
-    </head>
-    
+</head>
 <body>
+
     <h1>My Profile</h1>
     <img src="mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
-</head>
-</body>
     
 <html lang="en">
 <head>
@@ -74,23 +100,46 @@
 
     <div class="section">
         <h1>💫 About Me:</h1>
-        <p>💙PORTFOLIO💙<br><br>Name: Isiah Gabrielle Batul<br>Age: 21
-            <br>Birthday: December 11, 2003<br>
-            Contact Number: 09703023937<br>
-            <br>Educational Background:<br>
-            <br>Graduated at Santol Elementary School (2008 - 2015)<br>
-            Member of Power It Up Glee Club since Grade 8 (2017 - 2018)<br>
-            Member of Power It Up Glee Club since Grade 9 (2018 - 2019)<br>
-            Graduated at Tanza National Comprehensive High School (2021 - 2022)<br>
-            Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
-            Tenor 1 Member at CVSU CCAT Chorale (2023 -2025)<br>
-            <br>5 Skills:<br>
-            <br>1. I do video editing using Capcut.<br>
-            2. I do making posters or banners using Canva and Picsart.<br>
-            3. Coding in My SQL Database is my skill and I'm trying my best to improve in this language.<br>
-            4. Coding in XML is also my skill and I really enjoyed putting some attributes on it.<br>
-            5. Last, one of my favorite is singing and that is one of my skills and passion since I was a kid.<br>
-            <br></p>
+        <p>💙PORTFOLIO</p><br><br>Isiah Gabrielle Batul</br>Age: 21
+        <br>Birthday:December 11, 2003</br>
+        <br>Educational Background</br>
+        <button class="button" onclick="toggleEducation()">Educational Background</button>
+        <div id="educationDetails" class="hidden">
+            <p>Graduated at Santol Elementary School (2008-2025)<br>
+                Member of Power It Up Glee Club (2017-2018)<br>
+                Member of Power It Up Glee Club (2018-2019)<br>
+                Graduated at Tanza National Comprehensive High School (2021-2022)<br>
+                Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
+                Tenor 1 Member at CVSU CCAT Chorale (2023-2025)</br></p>
+        <br>Skills</br>
+        <button class="button" onclick="toggleSkills()">Skills</button>
+        <div id="skillDetails" class="hidden">
+            <p>1. Being generous can strengthen relationships to others.<br>
+               2. Visionary that can be good to develop another things.<br>
+               3. Being creative in any work that helps to explore more ideas.<br>
+               4. Being helpful is one of my skills so that I can work with other people 
+                  and make their work more better.<br>
+               
+               5. Planning is also my skills to gain an efficiency and decision making.</p></br>
+    </div>
+
+    script>
+        function toggleEducation() {
+            var details = document.getElementById("educationDetails");
+            if (details.classList.contains("hidden")) {
+                details.classList.remove("hidden");
+            } else {
+                details.classList.add("hidden");
+            }
+        }
+            function toggleSkills() {
+            if (details.classList.contains("hidden")) {
+                details.classList.remove("hidden");
+            } else {
+                details.classList.add("hidden");
+            }
+            }
+    </script>
         <a href="https://github.com/gab1211" class="button">View My GitHub</a>
     </div>
 
