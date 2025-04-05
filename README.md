@@ -17,7 +17,7 @@
     
 <body>
     <h1>My Profile</h1>
-    <img src="C:\Users\asus\Downloads\Photo Dump\Profile Picture.png" alt="My Profile" class="profile picture" width="150px" height="150px">
+    <img src="![Image](https://github.com/user-attachments/assets/043e25da-53d9-400a-9502-e437e1bd36e8)" alt="My Profile" class="profile picture" width="150px" height="150px">
 </head>
 </body>
     
@@ -101,7 +101,7 @@
         <a href="https://tiktok.com/@IsiahGabrielleBatul">TikTok</a> |
         <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
         <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
-        <a href="mailto:isiah.gabrielle1211@gmail.com">Email</a>
+        <a href="isiah.gabrielle1211@gmail.com">Email</a>
         <a href="https://facebook.com/IsiahGabrielleBatul" class="button">Connect on Facebook</a>
         <a href="https://instagram.com/igbb_1211" class="button">Connect on Instagram</a>
         <a href="https://youtube.com/@IsiahGabrielleBatul" class="button">Connect on YouTube</a>
@@ -140,13 +140,14 @@
     <div class="dummy projects">
         <h2>Dummy Projects</h2>
         <ul>Turbo C++</ul>
-        <img src="C:\Users\asus\Downloads\Photo Dump\Turbo C++.png" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
+        <img src="![Image](https://github.com/user-attachments/assets/9e4ceee5-dbe3-4601-9ce1-9fc2bba287e0)" alt="Turbo C++" class="turbo c++" width="1000px" height="500px">
         <ul>Python</ul>
-        <img src="C:\Users\asus\Downloads\Photo Dump\Python.png" alt="Python" class="python" width="1000px" height="500px">
+        <img src="![Image](https://github.com/user-attachments/assets/d98dde3a-7a8b-46fb-bf7a-52c6b1b11729)" alt="Python" class="python" width="1000px" height="500px">
         <ul>Java</ul>
-        <img src="C:\Users\asus\Downloads\Photo Dump\Java.png" alt="Java" class="java" width="1000px" height="500px">
-        <ul>XML</ul>
-        <img src="C:\Users\asus\Downloads\Photo Dump\HTML.png" alt="HTML" class="html" width="1000px" height="500px">
+        <img src="![Image](https://github.com/user-attachments/assets/4a30a165-fbd7-43d4-a63d-33b253473dd0)" alt="Java" class="java" width="1000px" height="500px">
+        <ul>HTML</ul>
+        <img src="![Image](https://github.com/user-attachments/assets/63628cb4-aaff-4d66-9de7-2a9a5183fe42)
+        " alt="HTML" class="html" width="1000px" height="500px">
     </div>
 
 </body>
