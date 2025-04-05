@@ -41,12 +41,30 @@
             display: none; 
         }
     </style>
-</head>
-<body>
+
+    <div class="profile-picture">
+        <img src="mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
+    </div>
 
     <h1>My Profile</h1>
-    <img src="mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
-    
+    <style>
+        .profile-picture{
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid;
+        }
+
+        .profile-picture img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+
+</head>
+</body>
+     
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -103,8 +121,6 @@
         <p>💙PORTFOLIO</p><br><br>Isiah Gabrielle Batul</br>Age: 21
         <br>Birthday:December 11, 2003</br>
         <br>Educational Background</br>
-        <button class="button" onclick="toggleEducation()">Educational Background</button>
-        <div id="educationDetails" class="hidden">
             <p>Graduated at Santol Elementary School (2008-2025)<br>
                 Member of Power It Up Glee Club (2017-2018)<br>
                 Member of Power It Up Glee Club (2018-2019)<br>
@@ -112,8 +128,6 @@
                 Started studying at Cavite State University CCAT Campus in Bachelor of Science in Information Technology (2022)<br>
                 Tenor 1 Member at CVSU CCAT Chorale (2023-2025)</br></p>
         <br>Skills</br>
-        <button class="button" onclick="toggleSkills()">Skills</button>
-        <div id="skillDetails" class="hidden">
             <p>1. Being generous can strengthen relationships to others.<br>
                2. Visionary that can be good to develop another things.<br>
                3. Being creative in any work that helps to explore more ideas.<br>
@@ -123,23 +137,6 @@
                5. Planning is also my skills to gain an efficiency and decision making.</p></br>
     </div>
 
-    script>
-        function toggleEducation() {
-            var details = document.getElementById("educationDetails");
-            if (details.classList.contains("hidden")) {
-                details.classList.remove("hidden");
-            } else {
-                details.classList.add("hidden");
-            }
-        }
-            function toggleSkills() {
-            if (details.classList.contains("hidden")) {
-                details.classList.remove("hidden");
-            } else {
-                details.classList.add("hidden");
-            }
-            }
-    </script>
         <a href="https://github.com/gab1211" class="button">View My GitHub</a>
     </div>
 
