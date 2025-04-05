@@ -17,7 +17,7 @@
     
 <body>
     <h1>My Profile</h1>
-    <img src="Portfolio 1/mypic.jpg" alt="My Profile" class="profile picture" width="150px" height="150px">
+    <img src="Portfolio 1/mypic.jpg" alt="My Profile" class="profile-picture" width="150px" height="150px">
 </head>
 </body>
     
@@ -44,7 +44,7 @@
             color: black; 
         }
         .socials {
-            background-color: light blue;
+            background-color: lightblue;
             padding: 10px;
             border-radius: 5px;
         }
@@ -101,7 +101,7 @@
         <a href="https://tiktok.com/@IsiahGabrielleBatul">TikTok</a> |
         <a href="https://twitch.tv/IsiahGabrielleBatul">Twitch</a> |
         <a href="https://youtube.com/@IsiahGabrielleBatul">YouTube</a> |
-        <a href="isiah.gabrielle1211@gmail.com">Email</a>
+        <a href="mailto">Email</a>
         <a href="https://facebook.com/IsiahGabrielleBatul" class="button">Connect on Facebook</a>
         <a href="https://instagram.com/igbb_1211" class="button">Connect on Instagram</a>
         <a href="https://youtube.com/@IsiahGabrielleBatul" class="button">Connect on YouTube</a>
