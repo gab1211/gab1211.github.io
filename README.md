@@ -116,7 +116,7 @@
 
         <h1>💫 About Me:</h1>
         <p>💙PORTFOLIO💙</p><br>Name: Isiah Gabrielle Batul</br>Age: 21
-        <br>Birthday: December 11, 2003</br>
+        <br>Birthday: December 11, 2003
         <br>Contact Number: 09703023937</br>
         <br>💙EDUCATIONAL BACKGROUND💙</br>
             <p>Graduated at Santol Elementary School (2008-2025)<br>
