@@ -140,13 +140,13 @@
     <div class="dummy projects">
         <h2>Dummy Projects</h2>
         <ul>Turbo C++</ul>
-        <img src="png2jpg/turbo-cpp.jpg" alt="Turbo C++" class="turbo cpp" width="1000px" height="500px">
+        <img src="turbo-cpp.jpg" alt="Turbo C++" class="turbo cpp" width="1000px" height="500px">
         <ul>Python</ul>
-        <img src="png2jpg/python.jpg" alt="Python" class="python" width="1000px" height="500px">
+        <img src="python.jpg" alt="Python" class="python" width="1000px" height="500px">
         <ul>Java</ul>
-        <img src="png2jpg/java.jpg" alt="Java" class="java" width="1000px" height="500px">
+        <img src="java.jpg" alt="Java" class="java" width="1000px" height="500px">
         <ul>HTML</ul>
-        <img src="png2jpg/html.jpg" alt="HTML" class="html" width="1000px" height="500px">
+        <img src="html.jpg" alt="HTML" class="html" width="1000px" height="500px">
     </div>
 
 </body>
